@@ -13,11 +13,11 @@ return [
     "connected-people" => "Personnes Connectées",
     "join-our-community" => "Join Our Community",
     "meet-great-people" => "Meet Great People",
-    "meet-great-people-text" => "Meet Great People",
-    "discussion-forum" => "Meet Great People",
-    "discussion-forum-text" => "Meet Great People",
-    "active-groups" => "Meet Great People",
-    "active-groups-text" => "Meet Great People",
+    "meet-great-people-text" => "Meet the right people and get step-by-step assistance for your travel project",
+    "discussion-forum" => "Discussion Forums",
+    "discussion-forum-text" => "Tourism professionals give you their opinion",
+    "active-groups" => "Active Groups",
+    "active-groups-text" => "Various tourism professions and voluntary chains, groupings of independent businesses, and/or labelling; technical-commercial alliances",
     "discover-now" => "En Savoir Plus",
 
 

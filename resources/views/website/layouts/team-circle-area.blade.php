@@ -40,7 +40,7 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team6" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_8.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_7.jpg')}}" alt="team">
                                 </a>
                             </li>
                         </ul>

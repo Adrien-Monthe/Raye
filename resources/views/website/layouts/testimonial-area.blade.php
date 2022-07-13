@@ -35,16 +35,16 @@
                     </div>
                     <div class="slick-nav slick-carousel" data-slick='{"arrows": false, "slidesToShow": 3, "centerMode": true, "asNavFor": ".slick-slider", "focusOnSelect": true}'>
                         <div class="nav-item">
-                            <img src="{{('website/media/testimonial/nav_1.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_1.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{('website/media/testimonial/nav_2.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_2.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{('website/media/testimonial/nav_3.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_3.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{('website/media/testimonial/nav_1.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_1.jpg')}}" alt="Product">
                         </div>
                     </div>
                 </div>
@@ -52,12 +52,12 @@
         </div>
     </div>
     <ul class="shape-wrap">
-        <li><img src="{{('website/media/figure/shape_4.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_8.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_2.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_9.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_10.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_11.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/shape_8.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_4.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_8.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_2.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_9.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_10.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_11.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/shape_8.png')}}" alt="shape"></li>
     </ul>
 </section>

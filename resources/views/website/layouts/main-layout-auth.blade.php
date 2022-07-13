@@ -20,20 +20,6 @@
         @yield('page-content')
 
 
-        <!--=====================================-->
-        <!--=        Footer Area Start       	=-->
-        <!--=====================================-->
-        @include('website.layouts.footer-section')
-
-
-        <!--=====================================-->
-        <!--=      Header Search Start          =-->
-        <!--=====================================-->
-        @include('website.layouts.header-search-area')
-
-
-
-
 
     </div>
     @include('website.layouts.scripts')

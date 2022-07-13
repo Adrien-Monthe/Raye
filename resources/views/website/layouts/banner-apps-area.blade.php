@@ -18,7 +18,7 @@
             <div class="col-lg-6">
                 <div class="banner-img">
                     <div class="apps-view">
-                        <img src="{{('website/media/banner/apps.png')}}" alt="Apps">
+                        <img src="{{ asset('website/media/banner/apps.png')}}" alt="Apps">
                     </div>
                 </div>
             </div>

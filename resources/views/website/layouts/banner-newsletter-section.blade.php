@@ -1,17 +1,17 @@
 <section class="banner-newsletter">
     <ul class="section-cloud">
-        <li><img src="{{('website/media/figure/cloud_1.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/cloud_2.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/cloud_2.png')}}" alt="shape"></li>
-        <li><img src="{{('website/media/figure/cloud_1.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/cloud_1.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/cloud_2.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/cloud_2.png')}}" alt="shape"></li>
+        <li><img src="{{ asset('website/media/figure/cloud_1.png')}}" alt="shape"></li>
     </ul>
     <div class="container">
         <ul class="section-shape">
-            <li><img src="{{('website/media/figure/shape_1.png')}}" alt="shape"></li>
-            <li><img src="{{('website/media/figure/shape_2.png')}}" alt="shape"></li>
-            <li><img src="{{('website/media/figure/shape_3.png')}}" alt="shape"></li>
-            <li><img src="{{('website/media/figure/shape_4.png')}}" alt="shape"></li>
-            <li><img src="{{('website/media/figure/shape_5.png')}}" alt="shape"></li>
+            <li><img src="{{ asset('website/media/figure/shape_1.png')}}" alt="shape"></li>
+            <li><img src="{{ asset('website/media/figure/shape_2.png')}}" alt="shape"></li>
+            <li><img src="{{ asset('website/media/figure/shape_3.png')}}" alt="shape"></li>
+            <li><img src="{{ asset('website/media/figure/shape_4.png')}}" alt="shape"></li>
+            <li><img src="{{ asset('website/media/figure/shape_5.png')}}" alt="shape"></li>
         </ul>
         <div class="row justify-content-center">
             <div class="col-lg-8">

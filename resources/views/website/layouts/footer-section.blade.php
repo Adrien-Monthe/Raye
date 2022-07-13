@@ -17,7 +17,7 @@
                 <div class="col">
                     <div class="footer-box">
                         <div class="footer-logo">
-                            <a href="#"><img src="{{ asset('website/media/logo_dark.png')}}" alt="Logo"></a>
+                            <a href="#"><img src="{{ asset('website/media/logo_dark_trip.png')}}" alt="Logo"></a>
                         </div>
                         <p>Dorem ipsum dolor sit amet consec adipisicing elit sed do eiusmod por incidiut labore et loreLorem ipsum kelly amieo dolorey.</p>
                     </div>

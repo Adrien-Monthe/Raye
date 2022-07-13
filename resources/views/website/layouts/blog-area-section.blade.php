@@ -15,7 +15,7 @@
                 <div class="blog-box">
                     <div class="blog-img">
                         <a href="single-blog.html">
-                            <img src="{{('website/media/blog/blog_1.jpg')}}" alt="Blog">
+                            <img src="{{ asset('website/media/blog/blog_1.jpg')}}" alt="Blog">
                         </a>
                         <div class="blog-date"><i class="icofont-calendar"></i>24 Jun</div>
                     </div>
@@ -32,7 +32,7 @@
                 <div class="blog-box">
                     <div class="blog-img">
                         <a href="single-blog.html">
-                            <img src="{{('website/media/blog/blog_2.jpg')}}" alt="Blog">
+                            <img src="{{ asset('website/media/blog/blog_2.jpg')}}" alt="Blog">
                         </a>
                         <div class="blog-date"><i class="icofont-calendar"></i>22 Jun</div>
                     </div>
@@ -49,7 +49,7 @@
                 <div class="blog-box">
                     <div class="blog-img">
                         <a href="single-blog.html">
-                            <img src="{{('website/media/blog/blog_3.jpg')}}" alt="Blog">
+                            <img src="{{ asset('website/media/blog/blog_3.jpg')}}" alt="Blog">
                         </a>
                         <div class="blog-date"><i class="icofont-calendar"></i>20 Jun</div>
                     </div>

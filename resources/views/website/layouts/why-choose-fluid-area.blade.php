@@ -20,7 +20,7 @@
             <div class="col-lg-6">
                 <div class="why-choose-img">
                     <div class="image-box">
-                        <img src="{{('website/media/figure/why_choose_1.jpg')}}" alt="image">
+                        <img src="{{ asset('website/media/figure/why_choose_1.jpg')}}" alt="image">
                     </div>
                 </div>
             </div>

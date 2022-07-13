@@ -8,7 +8,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_1.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_1.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Photography</a></h3>
@@ -19,7 +19,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_2.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_2.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Break Fast</a></h3>
@@ -30,7 +30,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_3.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_3.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Adventrue</a></h3>
@@ -41,7 +41,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_4.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_4.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Restaurant</a></h3>
@@ -52,7 +52,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_5.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_5.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="user-single-group.html">Gaming</a></h3>
@@ -63,7 +63,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_6.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_6.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Tatoo</a></h3>
@@ -74,7 +74,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_7.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_7.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Music</a></h3>
@@ -85,7 +85,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="groups-box">
                     <div class="item-img">
-                        <img src="{{('website/media/groups/groups_8.jpg')}}" alt="Groups">
+                        <img src="{{ asset('website/media/groups/groups_8.jpg')}}" alt="Groups">
                     </div>
                     <div class="item-content">
                         <h3 class="item-title"><a href="#">Sports</a></h3>

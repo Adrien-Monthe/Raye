@@ -9,7 +9,7 @@
                 <div class="location-box">
                     <div class="item-img">
                         <a href="#">
-                            <img src="{{('website/media/location/location_1.jpg')}}" alt="Newyork City">
+                            <img src="{{ asset('website/media/location/location_1.jpg')}}" alt="Newyork City">
                         </a>
                     </div>
                     <div class="item-content">
@@ -23,7 +23,7 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{('website/media/location/location_2.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_2.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
@@ -33,7 +33,7 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{('website/media/location/location_3.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_3.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
@@ -45,7 +45,7 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{('website/media/location/location_2.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_2.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
@@ -55,7 +55,7 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{('website/media/location/location_4.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_4.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
