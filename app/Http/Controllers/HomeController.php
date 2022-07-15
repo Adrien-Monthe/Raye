@@ -33,7 +33,7 @@ class HomeController extends Controller
      */
     public function contact_page()
     {
-        return view('website.pages.contact');
+        //return view('website.pages.contact');
     }
 
     /**
