@@ -34,6 +34,8 @@ Route::group(['prefix'=>'{language}'], function ()
 
     Route::get('/about', [App\Http\Controllers\HomeController::class, 'about_page'])->name('about');
 
+    Route::get('/login', [App\Http\Controllers\HomeController::class, 'login_page'])->name('login');
+
     Route::get('/community', [App\Http\Controllers\HomeController::class, 'community_page'])->name('community');
 
     Route::get('/newsfeed', [App\Http\Controllers\SocialMediaController::class, 'index'])->name('newsfeed');

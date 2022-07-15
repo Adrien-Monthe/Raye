@@ -9,11 +9,11 @@
                 <div class="location-box">
                     <div class="item-img">
                         <a href="#">
-                            <img src="{{ asset('website/media/location/location_1.jpg')}}" alt="Newyork City">
+                            <img src="{{ asset('website/media/location/location_6.jpg')}}" alt="Newyork City">
                         </a>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title"><a href="#">Newyork City</a></h3>
+                        <h3 class="item-title"><a href="#">Cameroun</a></h3>
                     </div>
                 </div>
             </div>
@@ -23,21 +23,21 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{ asset('website/media/location/location_2.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_7.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
-                                <h3 class="item-title"><a href="#">Boston</a></h3>
+                                <h3 class="item-title"><a href="#">Nigeria</a></h3>
                             </div>
                         </div>
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{ asset('website/media/location/location_3.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_8.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
-                                <h3 class="item-title"><a href="#">California</a></h3>
+                                <h3 class="item-title"><a href="#">Afrique du Sud</a></h3>
                             </div>
                         </div>
                     </div>
@@ -45,21 +45,21 @@
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{ asset('website/media/location/location_2.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_9.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
-                                <h3 class="item-title"><a href="#">Kancas City</a></h3>
+                                <h3 class="item-title"><a href="#">Rwanda</a></h3>
                             </div>
                         </div>
                         <div class="location-box">
                             <div class="item-img">
                                 <a href="#">
-                                    <img src="{{ asset('website/media/location/location_4.jpg')}}" alt="Newyork City">
+                                    <img src="{{ asset('website/media/location/location_10.jpg')}}" alt="Newyork City">
                                 </a>
                             </div>
                             <div class="item-content">
-                                <h3 class="item-title"><a href="#">Los Angeles</a></h3>
+                                <h3 class="item-title"><a href="#">Zimbabwe</a></h3>
                             </div>
                         </div>
                     </div>

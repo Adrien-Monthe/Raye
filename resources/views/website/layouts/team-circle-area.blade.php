@@ -11,17 +11,17 @@
                         <ul class="nav nav-tabs nav-tabs-left" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link active" data-toggle="tab" href="#team1" role="tab" aria-selected="true">
-                                    <img src="{{ asset('website/media/team/team_1.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_10.jpg')}}" alt="team">
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team2" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_5.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_14.jpg')}}" alt="team">
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team3" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_6.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_9.jpg')}}" alt="team">
                                 </a>
                             </li>
                         </ul>
@@ -30,17 +30,17 @@
                         <ul class="nav nav-tabs nav-tabs-right" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team4" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_3.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_13.jpg')}}" alt="team">
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team5" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_4.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_12.jpg')}}" alt="team">
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="tab" href="#team6" role="tab" aria-selected="false">
-                                    <img src="{{ asset('website/media/team/team_7.jpg')}}" alt="team">
+                                    <img src="{{ asset('website/media/team/team_11.jpg')}}" alt="team">
                                 </a>
                             </li>
                         </ul>
@@ -50,7 +50,7 @@
                             <div class="tab-pane fade show active" id="team1" role="tabpanel">
                                 <div class="team-box">
                                     <div class="item-img">
-                                        <img src="{{ asset('website/media/team/team_1.jpg')}}" alt="team">
+                                        <img src="{{ asset('website/media/team/team_15.jpg')}}" alt="team">
                                     </div>
                                     <div class="item-content">
                                         <h3 class="item-title"><a href="#">Ketty Rio</a></h3>
