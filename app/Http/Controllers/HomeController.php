@@ -13,7 +13,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+       /* $this->middleware('auth');*/
     }
 
     /**
@@ -43,6 +43,16 @@ class HomeController extends Controller
      */
     public function about_page()
     {
-        return view('website.pages.home');
+        return view('website.pages.about');
+    }
+
+    /**
+     * Show the application Login Page.
+     *
+     * @return \Illuminate\Contracts\Support\Renderable
+     */
+    public function login_page()
+    {
+        return view('website.pages.login');
     }
 }

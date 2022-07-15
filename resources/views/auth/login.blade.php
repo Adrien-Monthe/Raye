@@ -8,7 +8,7 @@
     <div class="content-wrap">
         <div class="login-content">
             <div class="item-logo">
-                <a href="#"><img src="{{ asset('website/media/logo_large.png')}}" alt="logo"></a>
+                <a href="#"><img src="{{ asset('website/media/3.png')}}" alt="logo"></a>
             </div>
             <div class="login-form-wrap">
                 <ul class="nav nav-tabs" role="tablist">
