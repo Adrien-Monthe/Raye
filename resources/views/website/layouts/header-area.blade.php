@@ -5,7 +5,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-2">
 
-                        <a href="#"><img src="{{ asset('website/media/3.png') }}" alt="Logo"></a>
+                        <a href="{{ route("home", app()->getLocale()) }}"><img src="{{ asset('website/media/3.png') }}" alt="Logo"></a>
 
                 </div>
                 <div class="col-xl-6 col-lg-7 col-sm-7 col-8 d-flex justify-content-xl-start justify-content-center">
@@ -27,7 +27,7 @@
                         </button>
                         <ul class="menu-content">
                             <li class="header-nav-item">
-                                <a href="#" class="menu-link active">{{ __("header-area.header-area-home")}}</a>
+                                <a href="{{ route("home", app()->getLocale()) }}" class="menu-link active">{{ __("header-area.header-area-home")}}</a>
                             </li>
                             <li class="hide-on-mobile-menu">
                                 <a href="#" class="menu-link">{{ __("header-area.header-area-community")}}</a>
@@ -188,7 +188,7 @@
                                 <a href="#header-search" title="Search"><i class="icofont-search"></i></a>
                             </li> --}}
                             <li class="login-btn">
-                                <a href="#" class="item-btn"><i class="fas fa-user"></i>{{ __("header-area.header-area-login")}}</a>
+                                <a href="{{ route("newsfeed", app()->getLocale()) }}" class="item-btn"><i class="fas fa-user"></i>{{ __("header-area.header-area-login")}}</a>
                             </li>
                         </ul>
                     </div>
