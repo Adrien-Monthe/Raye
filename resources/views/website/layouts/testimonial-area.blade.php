@@ -13,21 +13,21 @@
                         </div>
                         <div class="slick-slide">
                             <div class="testimonial-content">
-                                <h3 class="item-title">Fahim Rahman</h3>
+                                <h3 class="item-title">Alexandre N.</h3>
+                                <div class="item-subtitle">Web Dev</div>
+                                <p>" Lorem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmod tempor utlabore et dolore magna aliqua enim miniectetur adipisicing eliteiusmod dolore magna aliqua Ut enim ad minim veniam."</p>
+                            </div>
+                        </div>
+                        <div class="slick-slide">
+                            <div class="testimonial-content">
+                                <h3 class="item-title">Shaphire K.</h3>
                                 <div class="item-subtitle">CEO, Khadai R Ghumai</div>
                                 <p>" Lorem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmod tempor utlabore et dolore magna aliqua enim miniectetur adipisicing eliteiusmod dolore magna aliqua Ut enim ad minim veniam."</p>
                             </div>
                         </div>
                         <div class="slick-slide">
                             <div class="testimonial-content">
-                                <h3 class="item-title">Tasfiq Al Rashid</h3>
-                                <div class="item-subtitle">CEO, Khadai R Ghumai</div>
-                                <p>" Lorem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmod tempor utlabore et dolore magna aliqua enim miniectetur adipisicing eliteiusmod dolore magna aliqua Ut enim ad minim veniam."</p>
-                            </div>
-                        </div>
-                        <div class="slick-slide">
-                            <div class="testimonial-content">
-                                <h3 class="item-title">Mamunur Rahman</h3>
+                                <h3 class="item-title">Jade H.</h3>
                                 <div class="item-subtitle">CEO, Khadai R Ghumai</div>
                                 <p>" Lorem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmod tempor utlabore et dolore magna aliqua enim miniectetur adipisicing eliteiusmod dolore magna aliqua Ut enim ad minim veniam."</p>
                             </div>
