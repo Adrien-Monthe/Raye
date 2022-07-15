@@ -41,10 +41,10 @@
                             <img src="{{ asset('website/media/testimonial/nav_8.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{ asset('website/media/testimonial/nav_3.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_6.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{ asset('website/media/testimonial/nav_1.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_6.jpg')}}" alt="Product">
                         </div>
                     </div>
                 </div>
