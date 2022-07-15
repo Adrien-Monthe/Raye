@@ -38,7 +38,7 @@
                             <img src="{{ asset('website/media/testimonial/nav_5.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
-                            <img src="{{ asset('website/media/testimonial/nav_2.jpg')}}" alt="Product">
+                            <img src="{{ asset('website/media/testimonial/nav_8.jpg')}}" alt="Product">
                         </div>
                         <div class="nav-item">
                             <img src="{{ asset('website/media/testimonial/nav_3.jpg')}}" alt="Product">
